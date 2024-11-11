@@ -25,8 +25,8 @@ I am a passionate Data Analyst with 2 years of experience, specializing in turni
 •	Excel tips and tricks for better data management.
 📫 How to Reach Me
 
-•	Email: mrshubham7020@gmail.com
-•	LinkedIn: Shubham Gavale
+•	Email: prathameshthakare136m@gmail.com
+•	LinkedIn: Prathamesh thakare
 🔗 Explore My Work
 
 •	All of my projects are available on GitHub
